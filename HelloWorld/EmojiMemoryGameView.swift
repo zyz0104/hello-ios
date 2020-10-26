@@ -43,7 +43,7 @@ struct CardView: View {
             }
         }
         .font(Font.system(size: fontSize(for: size)))
-        //cards.count/2<5 ? Font.largeTitle : Font.body
+        //TODO: to be removed after font change lecture, cards.count/2<5 ? Font.largeTitle : Font.body
     }
     
     
