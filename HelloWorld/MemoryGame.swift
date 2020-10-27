@@ -25,6 +25,10 @@ struct MemoryGame<CardContent> {
         return 0 // TODO: bogus!
     }
     
+    
+    //test changing git author information
+    
+    
     init(numberOfPairsOfCards: Int, cardContentFactory: (Int) -> CardContent) {
         cards = Array<Card>()
         for pairIndex in 0..<numberOfPairsOfCards {
