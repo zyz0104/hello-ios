@@ -17,6 +17,7 @@
 		86BF271B2548A15D008E4CDC /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86BF271A2548A15D008E4CDC /* Grid.swift */; };
 		86BF271E2548EA7D008E4CDC /* GridLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86BF271D2548EA7D008E4CDC /* GridLayout.swift */; };
 		86F0B83A254A1B6B00F2F4C8 /* Array+Identifiable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86F0B839254A1B6B00F2F4C8 /* Array+Identifiable.swift */; };
+		86F0B83D254A4AC600F2F4C8 /* Array+Only.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86F0B83C254A4AC600F2F4C8 /* Array+Only.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		86BF271A2548A15D008E4CDC /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
 		86BF271D2548EA7D008E4CDC /* GridLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridLayout.swift; sourceTree = "<group>"; };
 		86F0B839254A1B6B00F2F4C8 /* Array+Identifiable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Identifiable.swift"; sourceTree = "<group>"; };
+		86F0B83C254A4AC600F2F4C8 /* Array+Only.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Only.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				86BF271D2548EA7D008E4CDC /* GridLayout.swift */,
 				866357D62526C06B004EC6AE /* EmojiMemoryGame.swift */,
 				866357D325269933004EC6AE /* MemoryGame.swift */,
+				86F0B83C254A4AC600F2F4C8 /* Array+Only.swift */,
 				8630AE9925255BF5004EBBD6 /* Assets.xcassets */,
 				8630AE9E25255BF5004EBBD6 /* Info.plist */,
 				8630AE9B25255BF5004EBBD6 /* Preview Content */,
@@ -159,6 +162,7 @@
 				866357D425269933004EC6AE /* MemoryGame.swift in Sources */,
 				8630AE9825255BF3004EBBD6 /* EmojiMemoryGameView.swift in Sources */,
 				866357DA252D1385004EC6AE /* TestPlayGround.swift in Sources */,
+				86F0B83D254A4AC600F2F4C8 /* Array+Only.swift in Sources */,
 				8630AE9625255BF3004EBBD6 /* HelloWorldApp.swift in Sources */,
 				866357D72526C06B004EC6AE /* EmojiMemoryGame.swift in Sources */,
 				86F0B83A254A1B6B00F2F4C8 /* Array+Identifiable.swift in Sources */,
